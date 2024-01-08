@@ -1,0 +1,2 @@
+class IncomeCalculation < ApplicationRecord
+end
